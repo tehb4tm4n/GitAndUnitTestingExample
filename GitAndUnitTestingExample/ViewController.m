@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad
 {
+    NSLog(@"This needs to be saved");
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
